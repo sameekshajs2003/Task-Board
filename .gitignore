@@ -1,0 +1,5 @@
+START_APP.bat
+node_modules/
+dist/
+.env
+.DS_Store
