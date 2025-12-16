@@ -44,7 +44,7 @@ A clean, full-stack task management application built with **Python FastAPI** ba
   - `ProgressBar`: Animated completion tracker
   - `Stats`: Priority-based statistics dashboard
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 fluid-ai/
@@ -102,7 +102,7 @@ Frontend runs on: `http://localhost:3000`
 - Tailwind CSS
 - Axios
 
-## 💡 Key Engineering Decisions
+## Key Engineering Decisions
 
 1. **FastAPI over Flask**: Better performance, automatic API docs, type validation
 2. **JSON File Storage**: Simple, portable, meets "runtime persistence" requirement
